@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de71795b-e6f0-4adf-89c4-08aec2d436be" name="Default Changelist" comment="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit">
+      <change afterPath="$PROJECT_DIR$/res/worlds/infinite-gun.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/worlds/pool.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/old/ShadowLifeOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CycleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Depositable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Depositable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GoldenTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GoldenTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShadowLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShadowLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stockpile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stockpile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Gatherer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Gatherer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShadowLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tree.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hmtmko6gE0rwVreSEtuJdgwrtD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/week12-events" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Application.ShadowLife - sum">
+    <configuration name="ShadowLife - harvest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="200 100 res/worlds/harvest.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowLife - infinite gun" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="200 100 res/worlds/infinite-gun.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowLife - pool" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="200 100 res/worlds/pool.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowLife - product" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="80 1000 res/worlds/product.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowLife - sum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowLife" />
+      <module name="bagel" />
+      <option name="PROGRAM_PARAMETERS" value="100 300 res/worlds/sum.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShadowLife - harvest" />
+      <item itemvalue="Application.ShadowLife - pool" />
+      <item itemvalue="Application.ShadowLife - infinite gun" />
+      <item itemvalue="Application.ShadowLife - sum" />
+      <item itemvalue="Application.ShadowLife - product" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de71795b-e6f0-4adf-89c4-08aec2d436be" name="Default Changelist" comment="" />
+      <created>1600628255651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600628255651</updated>
+      <workItem from="1600628257928" duration="19000" />
+      <workItem from="1600628622056" duration="624000" />
+      <workItem from="1600702844300" duration="2832000" />
+      <workItem from="1600705903107" duration="3168000" />
+      <workItem from="1600752010763" duration="10000" />
+      <workItem from="1600752154647" duration="3835000" />
+      <workItem from="1600765523306" duration="7692000" />
+      <workItem from="1600777611287" duration="12915000" />
+      <workItem from="1601122482160" duration="11148000" />
+      <workItem from="1601208388302" duration="17003000" />
+      <workItem from="1601350937939" duration="25000" />
+      <workItem from="1601408776699" duration="2411000" />
+      <workItem from="1601538442426" duration="6856000" />
+      <workItem from="1601557327254" duration="307000" />
+      <workItem from="1601557721595" duration="1290000" />
+      <workItem from="1601561140062" duration="185000" />
+      <workItem from="1601612779332" duration="1831000" />
+      <workItem from="1601792681095" duration="82000" />
+      <workItem from="1601822947258" duration="358000" />
+      <workItem from="1601823343514" duration="3898000" />
+      <workItem from="1602165090074" duration="368000" />
+      <workItem from="1602208065997" duration="12587000" />
+      <workItem from="1602567308274" duration="91000" />
+      <workItem from="1602655382061" duration="856000" />
+      <workItem from="1602761018444" duration="2384000" />
+      <workItem from="1603171578787" duration="34000" />
+      <workItem from="1603325996846" duration="18219000" />
+      <workItem from="1603408128367" duration="14988000" />
+      <workItem from="1603776161626" duration="56000" />
+      <workItem from="1605011163422" duration="826000" />
+      <workItem from="1605012185840" duration="50000" />
+      <workItem from="1605012455140" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="* Changelog *&#10;- Added more actor classes&#10;- Added map of tiles to store the actors&#10;- Added updating of the map when actors move (Gatherers)&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs">
+      <created>1600773606725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600773606725</updated>
+    </task>
+    <task id="LOCAL-00002" summary="* Changelog *&#10;- Added Algorithm 1,2 for gatherer movement&#10;- need to do thief&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs">
+      <created>1600782463917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600782463917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="* Changelog *&#10;- Added theif...not sure if its right&#10;- needs a lot of debugging&#10;- probably going to re-write the whole thing xd&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs">
+      <created>1600788277881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600788277881</updated>
+    </task>
+    <task id="LOCAL-00004" summary="* Changelog *&#10;#&#10;Pretty sure whatever code the instructors are running to create screenshots/worlds is wrong causing us lots of confusion. pretty inconsistent..&#10;#&#10;-fixed the interaction when gatherer and thief on same tile&#10;-fixed rotation of thief/gatherer by inverting y axis&#10;-realised that the product.csv is busted after spending a couple of hours on a while goose chase. &#10;&#10;TODO:&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want">
+      <created>1601132749437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601132749437</updated>
+    </task>
+    <task id="LOCAL-00005" summary="* Changelog *&#10;- Added output&#10;- Added handling of cmd args&#10;&#10;# Hopefully instructors give clarification...&#10;&#10;TODO:&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want">
+      <created>1601217458292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601217458292</updated>
+    </task>
+    <task id="LOCAL-00006" summary="* Changelog *&#10;- Added new specifications&#10;- Had to change how move is implemented, not sure if they will like that&#10;&#10;TODO:&#10;- Implement mitosis pools&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want">
+      <created>1601296744663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601296744663</updated>
+    </task>
+    <task id="LOCAL-00007" summary="* Changelog *&#10;- Added Javadocs&#10;- Cleaning up of code&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works.">
+      <created>1603359651366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603359651366</updated>
+    </task>
+    <task id="LOCAL-00008" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works.">
+      <created>1603361741244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603361741244</updated>
+    </task>
+    <task id="LOCAL-00009" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works.">
+      <created>1603369889355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603369889355</updated>
+    </task>
+    <task id="LOCAL-00010" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works.">
+      <created>1603423601984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603423601984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works.">
+      <created>1603433305239</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603433305239</updated>
+    </task>
+    <task id="LOCAL-00012" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit">
+      <created>1603434561348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603434561348</updated>
+    </task>
+    <task id="LOCAL-00013" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit">
+      <created>1603439218275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603439218275</updated>
+    </task>
+    <task id="LOCAL-00014" summary="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit">
+      <created>1605011577669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605011577669</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="* Changelog *&#10;- Added more actor classes&#10;- Added map of tiles to store the actors&#10;- Added updating of the map when actors move (Gatherers)&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs" />
+    <MESSAGE value="* Changelog *&#10;- Added Algorithm 1,2 for gatherer movement&#10;- need to do thief&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs" />
+    <MESSAGE value="* Changelog *&#10;- Added theif...not sure if its right&#10;- needs a lot of debugging&#10;- probably going to re-write the whole thing xd&#10;&#10;TODO:&#10;- Lots...&#10;- add cases for different signs" />
+    <MESSAGE value="* Changelog *&#10;#&#10;Pretty sure whatever code the instructors are running to create screenshots/worlds is wrong causing us lots of confusion. pretty inconsistent..&#10;#&#10;-fixed the interaction when gatherer and thief on same tile&#10;-fixed rotation of thief/gatherer by inverting y axis&#10;-realised that the product.csv is busted after spending a couple of hours on a while goose chase. &#10;&#10;TODO:&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want" />
+    <MESSAGE value="* Changelog *&#10;- Added output&#10;- Added handling of cmd args&#10;&#10;# Hopefully instructors give clarification...&#10;&#10;TODO:&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want" />
+    <MESSAGE value="* Changelog *&#10;- Added new specifications&#10;- Had to change how move is implemented, not sure if they will like that&#10;&#10;TODO:&#10;- Implement mitosis pools&#10;- Clean up&#10;- Potential restructure to remove redundant code and improve classes and stuff whatever they want" />
+    <MESSAGE value="* Changelog *&#10;- Added Javadocs&#10;- Cleaning up of code&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works." />
+    <MESSAGE value="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Clean up more&#10;- Work on finishing all Todo's.&#10;- Understand why it's not ok to use an enhanced for loop, if it works." />
+    <MESSAGE value="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit" />
+    <option name="LAST_COMMIT_MESSAGE" value="* Changelog *&#10;- Completed Javadocs&#10;&#10;TODO:&#10;- Submit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605011459049">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="-148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854992923" />
+    <state x="394" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602253915072" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1601792732432" />
+    <state x="-1506" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218269355" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011459049" />
+    <state x="326" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602220775052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="326" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602220775052" />
+    <state x="2684" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1603350897589">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600708984003" />
+    <state x="2684" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1601538560259" />
+    <state x="2350" y="400" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601215035226" />
+    <state x="-1155" y="221" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600783817621" />
+    <state x="2684" y="221" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603350897589" />
+    <state x="2243" y="830" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601211152702">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2243" y="830" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601211152702" />
+    <state x="2777" y="273" key="#xdebugger.XInspectDialog" timestamp="1601122566693">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2777" y="273" key="#xdebugger.XInspectDialog/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601122566693" />
+    <state x="2627" y="375" width="506" height="559" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603361771597">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1213" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600777892892" />
+    <state x="2627" y="375" width="506" height="559" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603361771597" />
+    <state width="384" height="466" key="DebuggerActiveHint" timestamp="1601122542014">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="384" height="466" key="DebuggerActiveHint/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601122542014" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1605012209446">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2336" y="203" key="FileChooserDialogImpl/0.0.1920.1040/1920.-294.1080.1880/-1920.0.1920.1040@1920.-294.1080.1880" timestamp="1601561324811" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600628271486" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605012209446" />
+    <state width="1877" height="153" key="GridCell.Tab.0.bottom" timestamp="1605011989788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996908" />
+    <state width="1037" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254242589" />
+    <state width="1877" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602655389367" />
+    <state width="1037" height="377" key="GridCell.Tab.0.bottom/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238481" />
+    <state width="1877" height="153" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603333084724" />
+    <state width="1877" height="153" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011989788" />
+    <state width="1877" height="153" key="GridCell.Tab.0.center" timestamp="1605011989788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996908" />
+    <state width="1037" height="185" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254242589" />
+    <state width="1877" height="246" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602655389367" />
+    <state width="1037" height="377" key="GridCell.Tab.0.center/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238481" />
+    <state width="1877" height="153" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603333084723" />
+    <state width="1877" height="153" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011989788" />
+    <state width="1877" height="153" key="GridCell.Tab.0.left" timestamp="1605011989788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996908" />
+    <state width="1037" height="185" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254242589" />
+    <state width="1877" height="246" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602655389367" />
+    <state width="1037" height="377" key="GridCell.Tab.0.left/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238481" />
+    <state width="1877" height="153" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603333084723" />
+    <state width="1877" height="153" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011989788" />
+    <state width="1877" height="153" key="GridCell.Tab.0.right" timestamp="1605011989788">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996908" />
+    <state width="1037" height="185" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254242589" />
+    <state width="1877" height="246" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602655389367" />
+    <state width="1037" height="377" key="GridCell.Tab.0.right/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238481" />
+    <state width="1877" height="153" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603333084723" />
+    <state width="1877" height="153" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011989788" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom" timestamp="1603369900764">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996796" />
+    <state width="1037" height="185" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254244196" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602291950222" />
+    <state width="1037" height="377" key="GridCell.Tab.1.bottom/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238482" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603332936565" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603369900764" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center" timestamp="1603369900763">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996796" />
+    <state width="1037" height="185" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254244196" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602291950222" />
+    <state width="1037" height="377" key="GridCell.Tab.1.center/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238482" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603332936565" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603369900763" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left" timestamp="1603369900763">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996796" />
+    <state width="1037" height="185" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254244196" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602291950222" />
+    <state width="1037" height="377" key="GridCell.Tab.1.left/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238482" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603332936565" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603369900763" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right" timestamp="1603369900763">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1037" height="354" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-464.1080.1880/-1920.0.1920.1040@1920.-464.1080.1880" timestamp="1601854996796" />
+    <state width="1037" height="185" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1080.1880/-1920.0.1920.1040@1920.0.1080.1880" timestamp="1601557232712" />
+    <state width="1877" height="244" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600709073492" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602254244196" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602291950222" />
+    <state width="1037" height="377" key="GridCell.Tab.1.right/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218238482" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603332936565" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603369900763" />
+    <state x="2545" y="224" key="NewModule_or_Project.wizard" timestamp="1605012234474">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2545" y="224" key="NewModule_or_Project.wizard/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605012234474" />
+    <state x="1963" y="233" key="SettingsEditor" timestamp="1601216036485">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="1963" y="233" key="SettingsEditor/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601216036485" />
+    <state x="-1843" y="129" key="SettingsEditor/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600778006042" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605011584965">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1990" y="347" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601217503140" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600782471595" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1605011584965" />
+    <state x="284" y="-22" width="1642" height="1027" maximized="true" key="dock-window-1" timestamp="1603427050989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="446" y="-10" width="1053" height="1127" maximized="true" key="dock-window-1/0.0.1920.1040/1920.-294.1080.1880/-1920.0.1920.1040@1920.-294.1080.1880" timestamp="1601561324874" />
+    <state x="1916" y="-18" width="1893" height="846" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602253778439" />
+    <state x="1846" y="110" width="1893" height="846" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602285062689" />
+    <state x="-1229" y="0" width="1053" height="1127" key="dock-window-1/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601210581274" />
+    <state x="284" y="-22" width="1642" height="1027" maximized="true" key="dock-window-1/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603427050989" />
+    <state x="634" y="-20" width="829" height="846" maximized="true" key="dock-window-2" timestamp="1603433870060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="-8" width="612" height="1127" maximized="true" key="dock-window-2/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601211360441" />
+    <state x="634" y="-20" width="829" height="846" maximized="true" key="dock-window-2/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603433870060" />
+    <state x="-1436" y="-22" width="875" height="1127" maximized="true" key="dock-window-3" timestamp="1601349791165">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1436" y="-22" width="875" height="1127" maximized="true" key="dock-window-3/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601216523258" />
+    <state x="-1436" y="-22" width="875" height="1127" maximized="true" key="dock-window-3/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601349791165" />
+    <state x="2587" y="83" width="585" height="873" key="find.popup" timestamp="1603434320731">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="83" width="585" height="873" key="find.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600783568011" />
+    <state x="2587" y="83" width="585" height="873" key="find.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603434320731" />
+    <state x="2262" y="140" key="new project wizard" timestamp="1603171614250">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@1920.0.1920.1040" timestamp="1602567400572" />
+    <state x="-1578" y="140" key="new project wizard/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1600756095047" />
+    <state x="2262" y="140" key="new project wizard/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603171614250" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1603434515126">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600706925044" />
+    <state x="617" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602251008072" />
+    <state x="2267" y="434" key="run.anything.popup/1920.0.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.0.1080.1880" timestamp="1601218049354" />
+    <state x="-1303" y="240" key="run.anything.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603328241606" />
+    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603434515126" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603329879475">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600707878497" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1603329879475" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/-1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1601277145302" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="Thief" fieldName="angle" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
