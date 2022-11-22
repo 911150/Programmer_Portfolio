@@ -14,7 +14,7 @@ retained_features = {"VendorID",
                      "tip_amount",
                      "congestion_surcharge"}
 
-# Features that are non continuous
+# Features that are non-continuous
 integer_features = {"VendorID",
                     "RatecodeID",
                     "PULocationID",
