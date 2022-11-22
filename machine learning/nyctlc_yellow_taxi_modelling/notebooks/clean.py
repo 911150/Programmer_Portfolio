@@ -3,7 +3,6 @@ import pandas as pd
 from collate import drop_cast_and_create_taxi
 
 
-
 def remove_outliers(sdf):
     # Filter out bad records
     sdf = sdf.withColumn(
@@ -16,7 +15,7 @@ def remove_outliers(sdf):
             & ((F.col('congestion_surcharge') >= 0) & (F.col('congestion_surcharge') <= 10))
             & ((F.col('passenger_count') > 0) & (F.col('passenger_count') <= 6))
             & (F.col('tip_amount') >= 0)
-            & ((F.col('VendorID') <=2) & (F.col('VendorID') >=1))
+            & ((F.col('VendorID') <= 2) & (F.col('VendorID') >= 1))
             & ((F.col('payment_type') <= 2) & (F.col('payment_type') >= 1))
             & ((F.col('RatecodeID') >= 1) & (F.col('RatecodeID') <= 6))
             & ((F.col('trip_speed_mph') >= 1) & (F.col('trip_speed_mph') <= 65))
@@ -25,13 +24,12 @@ def remove_outliers(sdf):
             True
         ).otherwise(False)
     )
-    #sdf = sdf.filter(sdf.is_valid_record == True)
+    # sdf = sdf.filter(sdf.is_valid_record == True)
 
     return sdf
 
 
 def get_outliers_df(sdf):
-
     total_records = sdf.count()
 
     trip_dist = sdf.filter((F.col('trip_distance') > 0) & (F.col('trip_distance') < 312)).count()
@@ -41,7 +39,7 @@ def get_outliers_df(sdf):
     congestion = sdf.filter(((F.col('congestion_surcharge') >= 0) & (F.col('congestion_surcharge') <= 10))).count()
     pass_count = sdf.filter(((F.col('passenger_count') > 0) & (F.col('passenger_count') <= 6))).count()
     tip_amount = sdf.filter((F.col('tip_amount') >= 0)).count()
-    ven_id = sdf.filter(((F.col('VendorID') <=2) & (F.col('VendorID') >=1))).count()
+    ven_id = sdf.filter(((F.col('VendorID') <= 2) & (F.col('VendorID') >= 1))).count()
     pay_type = sdf.filter(((F.col('payment_type') <= 2) & (F.col('payment_type') >= 1))).count()
     rcode_id = sdf.filter(((F.col('RatecodeID') >= 1) & (F.col('RatecodeID') <= 6))).count()
     t_speed = sdf.filter(((F.col('trip_speed_mph') >= 1) & (F.col('trip_speed_mph') <= 65))).count()
@@ -52,9 +50,9 @@ def get_outliers_df(sdf):
     outliers_cols = ['trip_distance', 'PULocationID', 'DOLocation', 'fare_amount', 'congestion', 'passenger_count',
                      'tip_amount', 'vendorid', 'pay_type', 'rcode_id', 't_speed', 't_time', 'ratecode_min_fee']
     outlier_vals = [trip_dist, pu_locid, du_locid, fare_amount, congestion, pass_count,
-                    tip_amount, ven_id, pay_type, rcode_id, t_speed, t_time, r_code_id_min_fee,]
+                    tip_amount, ven_id, pay_type, rcode_id, t_speed, t_time, r_code_id_min_fee, ]
 
-    outliers_inv = [total_records- x for x in outlier_vals]
+    outliers_inv = [total_records - x for x in outlier_vals]
     outliers_prop = [x / total_records for x in outliers_inv]
 
     outlier_df = pd.DataFrame(outliers_inv, index=outliers_cols)
