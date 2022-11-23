@@ -1,5 +1,6 @@
-## An application and analysis of fare forecasting using Gradient Boosted Trees against Random Forests applied to the New York City Yellow Cab
-- Name: Noah Sebastian
+<h3 align="center">An application and analysis of fare forecasting using Gradient Boosted Trees against Random Forests applied to the New York City Yellow Cab</h3>
+<h4 align="center"> Project 1 - Applied Data Science - MAST30034</h4>
+<h4 align="center">Noah Sebastian | 911150</h4>
 
 **Research Goal:** Forecast fare amounts of the New York City Yellow Taxi Cab using the subset of features that are present before a journey is undertaken.
 
