@@ -1,7 +1,5 @@
 <h3 align="center"> Tweet Sentiment Classification on Imbalanced Datasets using Ensemble & Stacking Methods </h3>
-
 <h4 align="center">Assignment 2 - Machine Learning - COMP30027 </h4>
-<h4 align="center"> COMP30027 - Machine Learning </h4>
 
 ### Excerpt
 > ...Twitter is a popular social media service in

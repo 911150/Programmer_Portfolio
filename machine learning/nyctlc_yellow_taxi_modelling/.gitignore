@@ -25,7 +25,6 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-.idea
 MANIFEST
 
 # PyInstaller
@@ -142,3 +141,4 @@ data/raw/
 /models/pipeline_ninetyPercent/
 /models/pipeline/
 /notebooks/deprecated/
+/.idea/
