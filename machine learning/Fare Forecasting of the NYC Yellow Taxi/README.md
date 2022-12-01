@@ -7,6 +7,7 @@
 **Timeline:** The timeline for the research from 2019-2022. The training data will consist of trips undertaken from 
 Jan-Dec of 2019 and will be validated against trips from 2021-22 
 
+**Deployment**:
 To run the pipeline, please visit the `notebooks` directory and run the files in order:
 1. `download.ipynb`: This downloads the raw data into the `data/raw` directory.
 2. `collate_data.ipynb`: This notebook combines the data sets using `collate.py`.
