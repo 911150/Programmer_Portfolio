@@ -19,7 +19,7 @@
 
 ---
 
-<h4 align="left">An application and analysis of fare forecasting using Gradient Boosted Trees against Random Forests applied to the New York City Yellow Cab</h4>
+<h3 align="left">An application and analysis of fare forecasting using Gradient Boosted Trees against Random Forests applied to the New York City Yellow Cab</h4>
 
 **Research Goal:** Forecast fare amounts of the New York City Yellow Taxi Cab using the subset of features that are present before a journey is undertaken.
 
@@ -42,7 +42,7 @@ and effectiveness’...
 
 ---
 
-<h4 align="left"> Tweet Sentiment Classification on Imbalanced Datasets using Ensemble & Stacking Methods </h4>
+<h3 align="left"> Tweet Sentiment Classification on Imbalanced Datasets using Ensemble & Stacking Methods </h3>
 
 **Research Goal:** To critically assess the effectiveness of various Machine Learning classification algorithms and present empirical evidence and discussion regarding the efficacy of ensemble methods in this domain and how they were applied in this setting.
 
@@ -58,3 +58,12 @@ sentiment and its prediction that will be the focus point of this report.
 > The aim of this report is to critically assess the effectiveness of various Machine
 Learning classification algorithms and present empirical evidence and discussion regarding
 the effectiveness of ensemble methods in this domain and how they were applied in this setting...
+
+---
+
+<h3 align="left"> Generic Buy Now, Pay Later Project</h3>
+
+**Abstract:** 
+> In a nutshell, the Buy Now Pay Later firm offers its services to their partenered merchants, which allows their customers to pay for items in five installments, instead of all upfront. The firm itself gets a small commission for every transaction the customer makes with the buy now pay later feature. However, due to limited resources, the firm is only able to onboard a handful of merchants to partner up with every year.
+>
+> Hence, the objective and purpose of this project is to rank those merchants based on how well they perform and how consistent they are with their sales, such that the profits for the firm are optimized. In addition to this, a summary notebook is also included which summarises the overall approach taken, issues and obstacles that the team ran into, limitations/assumptions that were made, as well as recommendations to the client and stakeholders.
